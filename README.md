@@ -1,4 +1,5 @@
 # Perpetual Futures Margin & Liquidation Simulator
+Simulator link : https://perpsim-nfs3su6fddkkjk3pozswv3.streamlit.app/ 
 
 Simulates USDT-margined perpetual futures positions on historical candles: tiered maintenance margin,
 liquidation prices, funding payments, isolated vs cross margin, and insurance-fund shortfall under
