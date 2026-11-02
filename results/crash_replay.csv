@@ -1,0 +1,9 @@
+window,side,leverage,max_adverse_move_pct,liquidated,shortfall_pct_notional
+May-2021 China ban crash,long,5,6.31,False,0.0
+May-2021 China ban crash,long,10,6.31,False,0.0
+May-2021 China ban crash,long,20,6.31,True,0.0
+May-2021 China ban crash,long,50,6.31,True,0.0
+Nov-2022 FTX collapse,long,5,3.67,False,0.0
+Nov-2022 FTX collapse,long,10,3.67,False,0.0
+Nov-2022 FTX collapse,long,20,3.67,True,0.0
+Nov-2022 FTX collapse,long,50,3.67,True,0.0

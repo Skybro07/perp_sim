@@ -1,0 +1,4 @@
+hold_days,mean_long_cost_pct,median_long_cost_pct,pct_windows_longs_pay,p95_long_cost_pct,p05_long_cost_pct
+7,0.362,0.249,57.32,4.202,-2.733
+30,1.565,1.16,61.907,8.143,-4.137
+90,4.761,3.661,77.348,15.505,-2.575
